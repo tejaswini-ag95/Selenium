@@ -1,0 +1,11 @@
+com\selenium\pageobjects\WindowHandlePage.class
+com\selenium\pageobjects\DeleteCustomerPage.class
+com\selenium\testcases\LoginTest.class
+com\selenium\testcases\WindowHandleTest.class
+com\selenium\pageobjects\NewCustomerPage.class
+com\selenium\pageobjects\LoginPage.class
+com\selenium\pageobjects\EditCustomerPage.class
+com\selenium\testcases\BaseClass.class
+com\selenium\testcases\DeleteCustomerTest.class
+com\selenium\testcases\EditCustomerTest.class
+com\selenium\testcases\NewCustomerTest.class
