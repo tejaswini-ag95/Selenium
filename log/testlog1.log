@@ -1,0 +1,93 @@
+2022-08-01 16:53:22,516 [main] INFO selenium - URL is opened
+2022-08-01 16:53:22,794 [main] INFO selenium - Entered username
+2022-08-01 16:53:22,918 [main] INFO selenium - Entered password
+2022-08-01 16:53:26,269 [main] INFO selenium - Click submitButton
+2022-08-01 16:53:26,288 [main] INFO selenium - Login test passed
+2022-08-01 17:05:01,789 [main] INFO selenium - User name is provided
+2022-08-01 17:05:02,087 [main] INFO selenium - Passsword is provided
+2022-08-01 17:05:04,947 [main] INFO selenium - Click on submitButton
+2022-08-01 17:05:08,082 [main] INFO selenium - providing customer details....
+2022-08-01 17:05:20,989 [main] INFO selenium - validation started....
+2022-08-01 18:50:10,995 [main] INFO selenium - User name is provided
+2022-08-01 18:50:11,135 [main] INFO selenium - Passsword is provided
+2022-08-01 18:50:12,879 [main] INFO selenium - Click on submitButton
+2022-08-01 18:50:15,996 [main] INFO selenium - providing customer details....
+2022-08-01 18:50:22,018 [main] INFO selenium - edit customer details....
+2022-08-01 19:02:49,382 [main] INFO selenium - User name is provided
+2022-08-01 19:02:49,520 [main] INFO selenium - Passsword is provided
+2022-08-01 19:02:52,913 [main] INFO selenium - Click on submitButton
+2022-08-01 19:02:56,065 [main] INFO selenium - providing customer details....
+2022-08-01 19:03:01,245 [main] INFO selenium - edit customer details....
+2022-08-01 19:11:08,380 [main] INFO selenium - User name is provided
+2022-08-01 19:11:08,517 [main] INFO selenium - Passsword is provided
+2022-08-01 19:11:10,446 [main] INFO selenium - Click on submitButton
+2022-08-01 19:11:13,613 [main] INFO selenium - providing customer details....
+2022-08-01 19:11:27,863 [main] INFO selenium - validation started....
+2022-08-01 19:11:28,850 [main] INFO selenium - test case failed....
+2022-08-01 19:22:38,506 [main] INFO selenium - User name is provided
+2022-08-01 19:22:38,648 [main] INFO selenium - Passsword is provided
+2022-08-01 19:22:41,989 [main] INFO selenium - Click on submitButton
+2022-08-01 19:22:45,130 [main] INFO selenium - providing customer details....
+2022-08-01 19:22:58,820 [main] INFO selenium - validation started....
+2022-08-01 19:22:59,920 [main] INFO selenium - test case failed....
+2022-08-01 19:23:09,444 [main] INFO selenium - User name is provided
+2022-08-01 19:23:09,743 [main] INFO selenium - Passsword is provided
+2022-08-01 19:23:12,910 [main] INFO selenium - Click on submitButton
+2022-08-01 19:23:16,042 [main] INFO selenium - providing customer details....
+2022-08-01 20:23:29,502 [main] INFO selenium - User name is provided
+2022-08-01 20:23:29,773 [main] INFO selenium - Passsword is provided
+2022-08-01 20:23:32,811 [main] INFO selenium - Click on submitButton
+2022-08-01 20:23:35,935 [main] INFO selenium - providing customer details....
+2022-08-01 20:23:50,485 [main] INFO selenium - validation started....
+2022-08-01 20:23:58,611 [main] INFO selenium - User name is provided
+2022-08-01 20:23:58,787 [main] INFO selenium - Passsword is provided
+2022-08-01 20:24:01,849 [main] INFO selenium - Click on submitButton
+2022-08-01 20:24:04,969 [main] INFO selenium - providing customer details....
+2022-08-01 20:24:10,698 [main] INFO selenium - edit customer details....
+2022-08-01 20:24:18,605 [main] INFO selenium - User name is provided
+2022-08-01 20:24:18,797 [main] INFO selenium - Passsword is provided
+2022-08-01 20:24:20,415 [main] INFO selenium - Click on submitButton
+2022-08-01 20:24:23,593 [main] INFO selenium - providing customer details....
+2022-08-02 12:08:11,304 [main] INFO selenium - User name is provided
+2022-08-02 12:08:11,395 [main] INFO selenium - Passsword is provided
+2022-08-02 12:08:12,973 [main] INFO selenium - Click on submitButton
+2022-08-02 12:08:16,067 [main] INFO selenium - providing customer details....
+2022-08-02 12:08:29,923 [main] INFO selenium - validation started....
+2022-08-02 12:08:36,803 [main] INFO selenium - User name is provided
+2022-08-02 12:08:36,933 [main] INFO selenium - Passsword is provided
+2022-08-02 12:08:38,498 [main] INFO selenium - Click on submitButton
+2022-08-02 12:08:41,586 [main] INFO selenium - providing customer details....
+2022-08-02 12:08:51,256 [main] INFO selenium - edit customer details....
+2022-08-02 12:09:00,403 [main] INFO selenium - User name is provided
+2022-08-02 12:09:00,503 [main] INFO selenium - Passsword is provided
+2022-08-02 12:09:04,717 [main] INFO selenium - Click on submitButton
+2022-08-02 12:09:07,793 [main] INFO selenium - providing customer details....
+2022-08-02 12:36:10,892 [main] INFO selenium - User name is provided
+2022-08-02 12:36:10,992 [main] INFO selenium - Passsword is provided
+2022-08-02 12:36:12,585 [main] INFO selenium - Click on submitButton
+2022-08-02 12:36:15,686 [main] INFO selenium - providing customer details....
+2022-08-02 12:36:33,123 [main] INFO selenium - User name is provided
+2022-08-02 12:36:33,272 [main] INFO selenium - Passsword is provided
+2022-08-02 12:36:36,173 [main] INFO selenium - Click on submitButton
+2022-08-02 12:36:39,251 [main] INFO selenium - providing customer details....
+2022-08-02 12:38:14,474 [main] INFO selenium - URL is opened
+2022-08-02 12:38:14,642 [main] INFO selenium - Entered username
+2022-08-02 12:38:14,746 [main] INFO selenium - Entered password
+2022-08-02 12:38:18,099 [main] INFO selenium - Click submitButton
+2022-08-02 13:38:36,935 [main] INFO selenium - URL is opened
+2022-08-02 13:38:37,118 [main] INFO selenium - Entered username
+2022-08-02 13:38:37,184 [main] INFO selenium - Entered password
+2022-08-02 13:38:40,446 [main] INFO selenium - Click submitButton
+2022-08-02 13:38:50,246 [main] INFO selenium - user name provided
+2022-08-02 13:38:50,340 [main] INFO selenium - password provided
+2022-08-02 13:38:55,381 [main] INFO selenium - Login passed
+2022-08-02 13:39:02,304 [main] INFO selenium - user name provided
+2022-08-02 13:39:02,367 [main] INFO selenium - password provided
+2022-08-02 13:39:10,850 [main] INFO selenium - user name provided
+2022-08-02 13:39:10,918 [main] INFO selenium - password provided
+2022-08-02 13:39:17,525 [main] INFO selenium - Login passed
+2022-08-02 13:39:25,491 [main] INFO selenium - user name provided
+2022-08-02 13:39:25,578 [main] INFO selenium - password provided
+2022-08-02 13:39:34,159 [main] INFO selenium - user name provided
+2022-08-02 13:39:34,521 [main] INFO selenium - password provided
+2022-08-02 13:39:41,669 [main] INFO selenium - Login passed

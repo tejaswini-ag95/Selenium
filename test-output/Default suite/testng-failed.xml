@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.selenium.testcases.EditCustomerTest">
+      <class name="com.selenium.testcases.TC_LoginDDT">
         <methods>
           <include name="invokeBrowser"/>
-          <include name="EditCustomerTest"/>
+          <include name="tearDown"/>
+          <include name="loginDDT"/>
         </methods>
-      </class> <!-- com.selenium.testcases.EditCustomerTest -->
+      </class> <!-- com.selenium.testcases.TC_LoginDDT -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

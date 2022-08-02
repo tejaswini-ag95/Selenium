@@ -17,9 +17,15 @@ public class DeleteCustomerTest extends BaseClass {
 		
 		LoginPage lp=new LoginPage(driver);
 	lp.setUserName(username);
+	logger.info("User name is provided");
+
 	
 	lp.setPassword(password);
+	logger.info("Passsword is provided");
+
 	lp.clickSubmit();
+	logger.info("Click on submitButton");
+
 	
 	Thread.sleep(3000);
 	
@@ -27,6 +33,8 @@ public class DeleteCustomerTest extends BaseClass {
 	
 	DeleteCustomerPage addcust=new DeleteCustomerPage(driver);
 	addcust.clickDeleteCustomer();
+	logger.info("providing customer details....");
+
 	addcust.custiD("77970");
 	addcust.custsubmit();
 	
@@ -44,6 +52,7 @@ public class DeleteCustomerTest extends BaseClass {
     //alert.accept();	
     alert.dismiss();
 
+	logger.info("deleted customer details....");
 
 
 }

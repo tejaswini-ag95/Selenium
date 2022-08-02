@@ -16,8 +16,12 @@ public class WindowHandleTest extends BaseClass {
 	public void WindowHandleTest() 
 	{
 		driver.get(url);
+		logger.info("URL is opened");
+
 		WindowHandlePage wh=new WindowHandlePage(driver);
 wh.clickAddNewCustomer();
+logger.info("child window is opened");
+
 String MainWindow=driver.getWindowHandle();	
 //To handle all new opened window.				
 Set<String> s1=driver.getWindowHandles();	
@@ -37,7 +41,9 @@ String email="fggfgffg"+"@gmail.com";
 wh.emailid(email);
 wh.clickSubmit();
 // Closing the Child Window.
-driver.close();		
+driver.close();	
+logger.info("child window is closed");
+
 }		
 }		
 // Switching to Parent window i.e Main Window.

@@ -2,6 +2,7 @@ package com.selenium.testcases;
 
 import java.io.IOException;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 //import com.selenium.pageObjects.AddCustomerPage;
@@ -18,9 +19,15 @@ public class NewCustomerTest extends BaseClass {
 		
 		LoginPage lp=new LoginPage(driver);
 	lp.setUserName(username);
+	logger.info("User name is provided");
+
 	
 	lp.setPassword(password);
+	logger.info("Passsword is provided");
+
 	lp.clickSubmit();
+	logger.info("Click on submitButton");
+
 	
 	Thread.sleep(3000);
 	
@@ -28,6 +35,9 @@ public class NewCustomerTest extends BaseClass {
 	
 	NewCustomerPage addcust=new NewCustomerPage(driver);
 	addcust.clickAddNewCustomer();
+	logger.info("providing customer details....");
+
+	
 	addcust.custName("Pavan");
 	addcust.custgender("male");
 	addcust.custdob("10","15","1995");
@@ -51,15 +61,37 @@ public class NewCustomerTest extends BaseClass {
 	addcust.custsubmit();
 	
 	Thread.sleep(3000);
+	logger.info("validation started....");
+
 	boolean res=driver.getPageSource().contains("Customer Registered Successfully!!!");
 
 	
 
+//	}
+//
+//	private String randomestring() {
+//		// TODO Auto-generated method stub
+//		return null;
+//	}
+//
+//}
+	
+	
+	
+	if(res==true)
+	{
+		Assert.assertTrue(true);
+		logger.info("test case passed....");
+		
 	}
+	else
+	{
+		logger.info("test case failed....");
+	//	captureScreen(driver,"addNewCustomer");
+		Assert.assertTrue(false);
+	}
+		
+}
 
-	private String randomestring() {
-		// TODO Auto-generated method stub
-		return null;
-	}
 
 }

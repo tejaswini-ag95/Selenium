@@ -6,24 +6,35 @@
       <class name="com.selenium.testcases.WindowHandleTest">
         <methods>
           <include name="invokeBrowser"/>
+          <include name="tearDown"/>
           <include name="WindowHandleTest"/>
         </methods>
       </class> <!-- com.selenium.testcases.WindowHandleTest -->
+      <class name="com.selenium.testcases.LoginTest">
+        <methods>
+          <include name="invokeBrowser"/>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.selenium.testcases.LoginTest -->
       <class name="com.selenium.testcases.NewCustomerTest">
         <methods>
           <include name="NewCustomerTest"/>
           <include name="invokeBrowser"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- com.selenium.testcases.NewCustomerTest -->
       <class name="com.selenium.testcases.DeleteCustomerTest">
         <methods>
           <include name="DeleteCustomerTest"/>
           <include name="invokeBrowser"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- com.selenium.testcases.DeleteCustomerTest -->
       <class name="com.selenium.testcases.EditCustomerTest">
         <methods>
           <include name="invokeBrowser"/>
+          <include name="tearDown"/>
           <include name="EditCustomerTest"/>
         </methods>
       </class> <!-- com.selenium.testcases.EditCustomerTest -->

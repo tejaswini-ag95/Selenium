@@ -98,4 +98,10 @@ public void clickSubmit()
 	System.out.println(e);
 	}
 }
+
+public void clickLogout()
+{
+	lnkLogout.click();
+}
+
 }
